@@ -35,5 +35,9 @@ The AI response is displayed and stored as an AIMessage.
 Switching modes resets the chat history with a new system prompt.
 
 
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/8d0d61c4-9ea9-4981-a93f-98cd2083992a" />
+
+
+
 
 
